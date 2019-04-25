@@ -40,10 +40,11 @@ header.startup h1 {
   text-transform: uppercase;
   border-radius: 300px;
   font-family: 'Montserrat', sans-serif;
+  position: center;
 }
 
 .btn-xl {
-  padding: 10rem 4rem; 
+  padding: 1rem 2rem; 
 }
 
 .btn-primary {
